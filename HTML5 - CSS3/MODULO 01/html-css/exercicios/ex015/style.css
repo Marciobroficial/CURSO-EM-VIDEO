@@ -1,14 +1,14 @@
 @charset "UTF-8";
 
 body {
-    background-color: lightgoldenrodyellow;
+    background-color: rgb(187, 241, 228);
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
 }
 
 h1 {
-    color:maroon;
-    background-color: goldenrod;
+    color:rgb(241, 234, 234);
+    background-color: rgb(11, 9, 139);
 }
 
 h2 {
